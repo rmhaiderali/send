@@ -1005,7 +1005,7 @@ function decode (path) {
 }
 
 /**
- * Get the header names on a respnse.
+ * Get the header names on a response.
  *
  * @param {object} res
  * @returns {array[string]}
